@@ -31,18 +31,18 @@ numpy
 request
 pytest
 
-### 3. Convert JSON to CSV
+### **3. Convert JSON to CSV**
 python parse_json.py
 This will create a playlist.csv file inside the data/ directory.
 
-### 4. Run the Flask Application
+**### 4. Run the Flask Application**
 python app.py
 
 > The application will start on:
 http://127.0.0.1:5000
 
 
-### 5. Example Usage
+**### 5. Example Usage**
 Open browser to:
 http://127.0.0.1:5000
 
@@ -50,13 +50,13 @@ http://127.0.0.1:5000
 > Click on View to open a detailed view of the song.
 > The rating will persist during the current session.
 
-### 5. Application Features
+**### 6. Application Features**
 🏠 Home Page (/)
 > Displays all songs with pagination
 
-### 6. Song Detail Page (/song/<id>)
+**### 7. Song Detail Page (/song/<id>)**
 > View complete information about a single song
 > Rate the song directly from the detail page
 
-### 7. Rating System
+**### 8. Rating System**
 > Users can rate songs from the home page or detail page
