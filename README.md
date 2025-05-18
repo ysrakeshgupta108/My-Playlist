@@ -58,5 +58,9 @@ http://127.0.0.1:5000
 > View complete information about a single song
 > Rate the song directly from the detail page
 
+**### 8. Testing APP (/song/<id>)**
+pytest app_test.py
+> run above command to check each url
+
 **### 8. Rating System**
 > Users can rate songs from the home page or detail page
