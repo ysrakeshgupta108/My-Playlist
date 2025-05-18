@@ -31,7 +31,7 @@ numpy
 request
 pytest
 
-### **3. Convert JSON to CSV**
+### **3. Normalise JSON file to CSV**
 python parse_json.py
 This will create a playlist.csv file inside the data/ directory.
 
